@@ -54,6 +54,7 @@ class tableCellAnimationVC: UIViewController,UITableViewDelegate,UITableViewData
         }
     }
     
+    
     @IBAction func BtnAction(_ sender: AnyObject) {
         self.flag = true
         let  myConstant = -48
